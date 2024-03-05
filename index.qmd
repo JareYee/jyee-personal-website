@@ -1,5 +1,5 @@
 ---
-title: "jyee-personal-website"
+title: "Jared Yee"
 ---
 
 This is a Quarto website.
