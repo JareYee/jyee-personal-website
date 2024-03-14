@@ -2,8 +2,7 @@
 title: "About"
 ---
 
-About this site
+Include intro about self!?!?
+Include links like github, linkedIn?
 
-```{r}
-1 + 1
-```
+or projects??
